@@ -90,10 +90,10 @@ nav{
     color: #464646;
 }
 
-.links-container{
+.links_container{
     padding-top: 20px;
 }
-.links-container a{
+.links_container a{
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 500;
@@ -101,12 +101,13 @@ nav{
     text-decoration: none;
     color: #464646;
 }
-.links-container img{
+.links_container img{
     position: relative;
     top: 4px;
 }
 .perfil-container{
     position: relative;
+    right: 150px;
     top: 30px;
     width: 370px;
     height: 370px;

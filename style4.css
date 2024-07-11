@@ -86,7 +86,7 @@
     transition: all 0.25s;
 }
 
-.formcontato__textarea {
+.formcontacto_textarea {
     margin-top: 0.5rem;
     margin-bottom: 1rem;
     background-color: #fff;
@@ -151,13 +151,13 @@
   }
 
   @media (max-width: 768px){
-    .formcontacto-izquierda{
+    .form-contacto--izquierda{
         display: none;
     }
   }
 
   @media (max-width: 414px){
-    .formcontaxto_text{
+    .formcontacto_text{
         width: 80%;
     }
     .input-container{
@@ -166,7 +166,7 @@
     .formcontacto_input{
         width: 95%;
     }
-    .formcontato_textarea{
+    .formcontacto_textarea{
         width: 95%;
     }
   }
